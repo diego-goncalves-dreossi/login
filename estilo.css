@@ -1,0 +1,53 @@
+* {
+    text-align: center;
+    
+}
+
+body{
+    background-image: linear-gradient(to bottom,#6EFA8A,#34E056,#27AD41,#27AD41,#406147);
+    background-attachment: fixed;
+    /*Faz com que o gradiente fique arrumado, fixo pelo body, não ficando se repetindo por causa dos elementos*/
+    
+}
+
+main{
+    background-color:#f7f7f7;
+    padding: 20px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10%;
+    display: block;
+    width: 400px;
+    box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.39);
+    border: 0.5px solid black;
+}
+
+form{
+    margin: auto;
+    
+}
+
+img{
+    margin-bottom: 34px;
+}
+
+form input{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 70%;
+    height: 30px;
+    border-radius: 55px;
+    
+}
+
+#btn_login{
+    margin-bottom: 0px;
+    color: black;
+    width: 30%;
+    height: 30px;
+    border-radius: 55px;
+    background-color: #6EFA8A;
+
+}
+
