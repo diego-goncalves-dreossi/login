@@ -17,6 +17,7 @@ function armazenarDados(){
 
 
     console.log(logins)
+    alert('Dados salvos!')
     limpar()
     
 }
